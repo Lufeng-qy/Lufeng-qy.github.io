@@ -83,33 +83,33 @@ author:
   name             : "Qiuyang Wang"
   avatar           : "profile.png"
   bio              : "Computational neuroscience, where math, neurobiology and computer science meet togther"
-  location         : "Wuhan University, Wuhan, China / Columbia University, New York, US"
+  location         : "Wuhan University, China / Columbia University, US"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "qw2319@columbia.edu\\ qy-wang@whu.edu.cn" 
+  email 1      : "qy-wang@whu.edu.cn" 
+  email 2      : "qw2319@columbia.edu"
   researchgate     :  "https://www.researchgate.net/profile/Qiuyang_Wang"
   uri              :
-  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/QiuyoungWang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
