@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Young's website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -87,8 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email 1      : "qy-wang@whu.edu.cn" 
-  email 2      : "qw2319@columbia.edu"
+  email       : "qy-wang@whu.edu.cn" 
   researchgate     :  "https://www.researchgate.net/profile/Qiuyang_Wang"
   uri              :
   codepen          :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QiuyoungWang"
+  github           : "QiuyoungWang"
   google_plus      :
   keybase          :
   instagram        :
