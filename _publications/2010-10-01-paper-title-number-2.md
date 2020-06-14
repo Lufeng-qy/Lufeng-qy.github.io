@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'This paper is a fucking idiot'
 date: 2019-01-08
 venue: 'Journal of Materials Chemistry B'
-paperurl: 'http://qiuyoungwang.github.io/files/BMP_paper.pdf'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2019/tb/c8tb03094d#!divAbstract'
 
 ---
 This paper is a fucking idiot
