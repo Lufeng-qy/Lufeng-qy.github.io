@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/       
     
-  - title: "Portfolio"
+  - title: "Experience"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "More about me"
     url: /markdown/
