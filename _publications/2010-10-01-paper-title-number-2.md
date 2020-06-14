@@ -1,6 +1,5 @@
 ---
 title: "A versatile bacterial membrane-binding chimeric peptide with enhanced photodynamic antimicrobial activity"
-collection: publications
 excerpt: 'This paper is a fucking idiot'
 date: 2019-01-08
 venue: 'Journal of Materials Chemistry B'
