@@ -9,5 +9,5 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about fucking idiot
 
-[Download paper here](http://academicpages.github.io/files/BMP_paper.pdf)
+[Download paper here](http://QiuyoungWang.github.io/files/BMP_paper.pdf)
 
