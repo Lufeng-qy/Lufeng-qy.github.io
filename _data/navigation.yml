@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
     
-  - title: "gogogo"
+  - title: "Publications"
     url: /markdown/
 
   - title: "Talks"
