@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Publications"
-    url: /markdown/      
+    url: /markdown_test/      
     
   - title: "Experience"
     url: /portfolio/
