@@ -9,5 +9,5 @@ redirect_from:
 
 ## abstrat
 sdfsf
-* [Download](https://shopify.github.io/liquid/tags/control-flow/)
+* [Download](http://qiuyoungwang.github.io/files/BMP_paper.pdf)
 
