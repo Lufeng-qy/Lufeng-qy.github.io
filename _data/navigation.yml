@@ -1,19 +1,17 @@
 # main links links
 main:
-  - title: "Publication"
-    url: /publications/
+
+  - title: "Experience"
+    url: /portfolio/
     
   - title: "Publications"
     url: /markdown_test/      
-    
-  - title: "Experience"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "More about me"
     url: /markdown/
+    
+  - title: "CV"
+    url: /cv/
