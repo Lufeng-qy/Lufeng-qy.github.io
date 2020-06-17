@@ -15,49 +15,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, Wuhan University, 2017-2021
+* Visiting student in Columbia College, Columbia Univeristy in the city of New York, 2020
+* Minor in Computer Science, Huazhong University of Science and Technology, 2019-2020
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.6 - 2019.6 : Research Assistant
+  * College of Chemistry and Molecular Sciences, Wuhan University
+  * Biochemical Medical Polymer Lab
+  * Duties included:
+    * developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, this work was published in Jounral of Materials Chemistry B [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
+    * research about non-systemetic drug deilvery strategy to central neural system through axoplasmic transport
+  * Supervisor: Xianzheng Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.9 - now: Research Assistant
+  * School of Math and Statistics, Wuhan Univeristy
+  * Jiwei Zhang's group
+  * Duties included: Research about new coarse-gaining method to Integrate-and-fire neural network
+  * Supervisor: Jiwei Zhang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skilled in python programming (including pytorch)
+* Fimiliar with neural network and deep learning
+* Good at math modeling and numerical math
+* Have basic knowledge about PDE theory (currently learning the book *PDE by Evans*)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*A Versatile Bacterial Membrane-Binding Chimeric Peptide with Enhanced Photodynamic Antimicrobial Activity   A.Zhang, W.Wu, et al.*     Journal of Materials Chemistry B  2019-01 
 
-Talks
+Courses taken
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Math:
+  Theory of ODEs, Theory of PDEs, Complex analysis, Numerical Math, Statistics and Probability, Stochastic processes, Discrete Math
+* Computer Science:
+  Data Structure, Seminar on Deep learning, Assembly Language, Digital logic, C programming
+* Biology and Chemistry:
+  Theoretical neuroscience, Neurobiology, Physical Chemistry, Organic Chemistry, Analytical Chemistry, Melocular modeling, Biochemistry
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fulfill your deep dark fantasy
+* Shiba Inu lover
+* Try to have more knowledge in modern algebra and topology
