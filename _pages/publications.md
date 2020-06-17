@@ -13,7 +13,7 @@ redirect_from:
 
 This is my first publication in chemistry. Here, we combine photodynamic therapy(PDT) with chimeric peptide to develop a novel anti-bacteria method.
 The details are displayed in this figure
-http://qiuyoungwang.github.io/images/img_BMP_paper.jpg
+![img of BMP](http://qiuyoungwang.github.io/images/img_BMP_paper.jpg)
 
 * [Download](http://qiuyoungwang.github.io/files/BMP_paper.pdf)
 
