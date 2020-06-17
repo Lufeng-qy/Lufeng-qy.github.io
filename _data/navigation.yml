@@ -5,8 +5,8 @@ main:
     url: /portfolio/
     
   - title: "Publications"
-    url: /markdown_test/      
-        
+    url: /Publications/      
+    
   - title: "Blog Posts"
     url: /year-archive/
     
