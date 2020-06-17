@@ -11,7 +11,7 @@ main:
     url: /year-archive/
     
   - title: "More about me"
-    url: /markdown/
+    url: /more/
     
   - title: "CV"
     url: /cv/
