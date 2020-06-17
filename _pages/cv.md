@@ -32,7 +32,9 @@ Research experience
 * 2019.9 - now: Research Assistant
   * School of Math and Statistics, Wuhan Univeristy
   * Jiwei Zhang's group
-  * Duties included: Research about new coarse-gaining method to Integrate-and-fire neural network
+  * Duties included: 
+   * Research about new coarse-gaining method to Integrate-and-fire neural network
+   * Modeling dynamic behavior of COVID-19 through delay differential equations
   * Supervisor: Jiwei Zhang
   
 Skills
@@ -57,6 +59,7 @@ Courses taken
 
 Service and leadership
 ======
-* Fulfill your deep dark fantasy
+* Fulfill your deep dark fantasy ( my name is van )
 * Shiba Inu lover
 * Try to have more knowledge in modern algebra and topology
+* learning Julia these days
