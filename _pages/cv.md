@@ -33,8 +33,8 @@ Research experience
   * School of Math and Statistics, Wuhan Univeristy
   * Jiwei Zhang's group
   * Duties included: 
-   * Research about new coarse-gaining method to Integrate-and-fire neural network
-   * Modeling dynamic behavior of COVID-19 through delay differential equations
+    * Research about new coarse-gaining method to Integrate-and-fire neural network
+    * Modeling dynamic behavior of COVID-19 through delay differential equations
   * Supervisor: Jiwei Zhang
   
 Skills
