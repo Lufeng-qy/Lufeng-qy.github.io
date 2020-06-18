@@ -1,7 +1,7 @@
 ---
 title: '转一篇文章，以及关于连接组学的看法'
 date: 2020-06-17
-permalink: /posts/2020/06/blog_about_neuro/
+permalink: /posts/2020/06/blog_2_neuro/
 tags:
   - neuroscience
   - computational neuroscience
