@@ -29,13 +29,20 @@ Research experience
     * research about non-systemetic drug deilvery strategy to central neural system through axoplasmic transport
   * Supervisor: Xianzheng Zhang
 
-* 2019.9 - now: Research Assistant
+* 2019.9 - 2020.3: Research Assistant
   * School of Math and Statistics, Wuhan Univeristy
   * Jiwei Zhang's group
   * Duties included: 
     * Research about new coarse-gaining method to Integrate-and-fire neural network
     * Modeling dynamic behavior of COVID-19 through delay differential equations
   * Supervisor: Jiwei Zhang
+
+* 2020.3 - now: Research Assistant
+  * Centre of theoretical neuroscience, Columbia University
+  * Stefano Fusi's group
+  * Duties included: 
+    * Research about memory models of hippocampus and synaptic plasticity
+  * Supervisor: Stefano Fusi
   
 Skills
 ======
