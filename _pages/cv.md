@@ -15,8 +15,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, Wuhan University, 2017-2021
-* Visiting student in Columbia College, Columbia Univeristy in the city of New York, 2020
+* B.S. in Chemistry, Wuhan University, 2017-2021 (GPA: 3.78)
+* Visiting student in Columbia College, Columbia University in the city of New York, 2020
 * Minor in Computer Science, Huazhong University of Science and Technology, 2019-2020
 
 Research experience
@@ -26,18 +26,18 @@ Research experience
   * Biochemical Medical Polymer Lab
   * Duties included:
     * developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, this work was published in Jounral of Materials Chemistry B [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
-    * research about non-systemetic drug deilvery strategy to central neural system through axoplasmic transport
+    * research about non-systemetic drug delivery strategy to central neural system through axoplasmic transport
   * Supervisor: Xianzheng Zhang
 
 * 2019.9 - 2020.3: Research Assistant
-  * School of Math and Statistics, Wuhan Univeristy
+  * School of Math and Statistics, Wuhan University
   * Jiwei Zhang's group
   * Duties included: 
     * Research about new coarse-gaining method to Integrate-and-fire neural network
     * Modeling dynamic behavior of COVID-19 through delay differential equations
   * Supervisor: Jiwei Zhang
 
-* 2020.3 - now: Research Assistant
+* 2020.4 - now: Research Assistant
   * Centre of theoretical neuroscience, Columbia University
   * Stefano Fusi's group
   * Duties included: 
@@ -47,26 +47,21 @@ Research experience
 Skills
 ======
 * Skilled in python programming (including pytorch)
-* Fimiliar with neural network and deep learning
+* Familiar with neural network and deep learning
 * Good at math modeling and numerical math
 * Have basic knowledge about PDE theory (currently learning the book *PDE by Evans*)
 
 Publications
 ======
-*A Versatile Bacterial Membrane-Binding Chimeric Peptide with Enhanced Photodynamic Antimicrobial Activity   A.Zhang, W.Wu, et al.*     Journal of Materials Chemistry B  2019-01 
+*A Versatile Bacterial Membrane-Binding Chimeric Peptide with Enhanced Photodynamic Antimicrobial Activity*
+A. Zhang, W. Wu, et al.   *Journal of Materials Chemistry B*  2019-01 
 
 Courses taken
 ======
 * Math:
-  Theory of ODEs, Theory of PDEs, Complex analysis, Numerical Math, Statistics and Probability, Stochastic processes, Discrete Math
+  Theory of PDEs, Theory of ODEs, Complex analysis, Numerical Math, Statistics and Probability, Stochastic processes, Discrete Math
 * Computer Science:
   Data Structure, Seminar on Deep learning, Assembly Language, Digital logic, C programming
 * Biology and Chemistry:
-  Theoretical neuroscience, Neurobiology, Physical Chemistry, Organic Chemistry, Analytical Chemistry, Melocular modeling, Biochemistry
+  Theoretical neuroscience, Neurobiology, Physical Chemistry, Organic Chemistry, Analytical Chemistry, Molecular modeling, Biochemistry
 
-Service and leadership
-======
-* Fulfill your deep dark fantasy ( my name is van )
-* Shiba Inu lover
-* Try to have more knowledge in modern algebra and topology
-* learning Julia these days
