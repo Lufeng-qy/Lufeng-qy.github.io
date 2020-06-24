@@ -6,7 +6,7 @@ tags:
   - game
   - crime
   - detective
-  - puzzle
+  - jotting
 ---
 
 ---
@@ -29,7 +29,7 @@ tags:
 * Limbo
 * Inside
 * Cube escape/Rusty lake series
-* 返校（Detention)
+* 返校 Detention
 * 极乐迪斯科（Disco Elysium)
 * 前程似锦
 * Replica
