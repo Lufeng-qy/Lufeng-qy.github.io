@@ -21,13 +21,12 @@ Education
 
 Research experience
 ======
-* 2018.6 - 2019.6 : Research Assistant
-  * College of Chemistry and Molecular Sciences, Wuhan University
-  * Biochemical Medical Polymer Lab
-  * Duties included:
-    * developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, this work was published in Jounral of Materials Chemistry B [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
-    * research about non-systemetic drug delivery strategy to central neural system through axoplasmic transport
-  * Supervisor: Xianzheng Zhang
+* 2020.4 - now: Research Assistant
+  * Centre of theoretical neuroscience, Columbia University
+  * Stefano Fusi's group
+  * Duties included: 
+    * Research about memory models of hippocampus and synaptic plasticity
+  * Supervisor: Stefano Fusi
 
 * 2019.9 - 2020.3: Research Assistant
   * School of Math and Statistics, Wuhan University
@@ -37,12 +36,13 @@ Research experience
     * Modeling dynamic behavior of COVID-19 through delay differential equations
   * Supervisor: Jiwei Zhang
 
-* 2020.4 - now: Research Assistant
-  * Centre of theoretical neuroscience, Columbia University
-  * Stefano Fusi's group
-  * Duties included: 
-    * Research about memory models of hippocampus and synaptic plasticity
-  * Supervisor: Stefano Fusi
+* 2018.6 - 2019.6 : Research Assistant
+  * College of Chemistry and Molecular Sciences, Wuhan University
+  * Biochemical Medical Polymer Lab
+  * Duties included:
+    * developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, this work was published in Jounral of Materials Chemistry B [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
+    * research about non-systemetic drug delivery strategy to central neural system through axoplasmic transport
+  * Supervisor: Xianzheng Zhang
   
 Skills
 ======
