@@ -12,4 +12,16 @@ redirect_from:
 I will post something more about me here since it's not just a academic website.
 Since it's not for academic, I'll first write in Chinese, but then I will translate it to English. (Forgive my poor English writing skills!)
 
+* Hobbies: Escape/Detective games (not virtual game), Writing 
+* Some favorites: Something about mystery (including :crime novel, virtual escape game, detective game, urban legend, mystery creature), Pokemon, Shiba Inu, Game bgm, Science fiction(near future)
+* Favorite animal: Dogs, especially Shiba Inu ( 柴犬)
+* Favorite novel: One hundred years of solitude 
+* Favorite song: No special preference...
+* Favorite movie: The last emperor, Before sunset
+* Favortie games: Hollow Knight, Phenix Wright 123, Pokemon BW/SM, Trace in the sky FC&SC
+* Favorite drink: Coffee latte with black tea
+* Favortie color: Cyan
+* Favorite transport: Plane ( escecially by Russian Airline lol )
+* Favorite season: Winter ( I love ice and snow, and the feeling of freezing cold )
+* Favorite job: Pokemon trainer and researcher
 
