@@ -14,7 +14,7 @@ Since it's not for academic, I'll first write in Chinese, but then I will transl
 
 * Hobbies: Escape/Detective games (not virtual game), Writing 
 * Some favorites: Something about mystery (including :crime novel, virtual escape game, detective game, urban legend, mystery creature), Pokemon, Shiba Inu, Game bgm, Science fiction(near future)
-* Favorite animal: Dogs, especially Shiba Inu ( 柴犬)
+* Favorite animal: Dogs, especially Shiba Inu ( 柴犬 )
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset
 * Favortie games: Hollow Knight, Phenix Wright 123, Pokemon BW/SM, Trace in the sky FC&SC
@@ -23,4 +23,5 @@ Since it's not for academic, I'll first write in Chinese, but then I will transl
 * Favorite season: Winter
 * Favorite job: Pokemon trainer 
 * Favorite charactor :  Yang Wenli ( *Legend of the Galactic Heroes* )
+* Favorite author : Xiaobo Wang ( 王小波 )
 

@@ -24,8 +24,8 @@ Research experience
   * Duties included: 
     * Research about complex synapse model and its implement in place cell model (ongoing project)
     * Research about concept cell and its generation through auto-encoder model (ongoing project)
-* Supervisor: Stefano Fusi
   
+  * Supervisor: Stefano Fusi
 * 2019.9 - 2020.3: Research Assistant
   * School of Math and Statistics, Wuhan University
   * Jiwei Zhang's group
