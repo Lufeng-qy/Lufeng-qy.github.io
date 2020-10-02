@@ -18,22 +18,25 @@ Education
 
 Research experience
 ======
-* 2020.4 - now: Research Assistant
+
+* 2020. 5- now: Research Assistant
+  
   * Centre of theoretical neuroscience, Columbia University
   * Stefano Fusi's group
   * Duties included: 
-    * Research about complex synapse model and its implement in place cell model (ongoing project)
+    * Research about complex synapse model and its implement in place cell model
     * Research about concept cell and its generation through auto-encoder model (ongoing project)
   
   * Supervisor: Stefano Fusi
-* 2019.9 - 2020.3: Research Assistant
+* 2019.9 - 2020.3, 2020.9-now : Research Assistant
+  
   * School of Math and Statistics, Wuhan University
   * Jiwei Zhang's group
   * Duties included: 
     * Research about new coarse-gaining method to Integrate-and-fire neural network
-    * Modeling dynamic behavior of COVID-19 through delay differential equations
-  * Supervisor: Jiwei Zhang
-
+    * Research about spatially ordered network dynamics and its possible implement (ongoing project)
+* Supervisor: Jiwei Zhang
+  
 * 2018.6 - 2019.6 : Research Assistant
   * College of Chemistry and Molecular Sciences, Wuhan University
   * Biochemical Medical Polymer Lab
