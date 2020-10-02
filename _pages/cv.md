@@ -12,21 +12,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, Wuhan University, 2017-2021 (GPA: 3.78)
+* B.S. in Chemistry, Wuhan University, 2017-2021 (GPA: 3.78/4.0)
 * Visiting student in Columbia College, Columbia University in the city of New York, 2020
 * Minor in Computer Science, Huazhong University of Science and Technology, 2019-2020
 
 Research experience
 ======
 
-* 2020. 5- now: Research Assistant
-  
+* 2020.5- now: Research Assistant
   * Centre of theoretical neuroscience, Columbia University
   * Stefano Fusi's group
   * Duties included: 
     * Research about complex synapse model and its implement in place cell model
     * Research about concept cell and its generation through auto-encoder model (ongoing project)
-  
+
   * Supervisor: Stefano Fusi
 * 2019.9 - 2020.3, 2020.9-now : Research Assistant
   
@@ -35,7 +34,7 @@ Research experience
   * Duties included: 
     * Research about new coarse-gaining method to Integrate-and-fire neural network
     * Research about spatially ordered network dynamics and its possible implement (ongoing project)
-* Supervisor: Jiwei Zhang
+  * Supervisor: Jiwei Zhang
   
 * 2018.6 - 2019.6 : Research Assistant
   * College of Chemistry and Molecular Sciences, Wuhan University
@@ -50,7 +49,6 @@ Skills
 * Skilled in python programming (including pytorch)
 * Familiar with neural network and deep learning
 * Good at math modeling and numerical math
-* Have basic knowledge about PDE theory (currently learning the book *PDE by Evans*)
 
 Publications
 ======
