@@ -19,7 +19,7 @@ tags:
 
 这里的《局外人》并不是加缪的那个一上来就 ”今天妈妈死了，也许是昨天，我不知道“ 的存在主义小说，而是一款八竿子都打不着的游戏。这个游戏知名度低的可怜，如果不是上课玩手机，我可能永远也不会知道它。可惜一旦我知道了，保持沉默似乎是一种吝啬，于是便有了这篇文章。
 
-<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/局外人2.png" alt="局外人2" style="zoom: 50%" ></p></center>
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/局外人2.png" alt="局外人2" style="zoom: 50%" ></center></p>
 
 官网上好像说这个是一款galgame，而galgame (gal means girl and love)是我从来没有接触过的内容，对这种东西的唯一了解就是那是只有死肥宅才玩的东西。直到后来发现室友也玩的时候，stereotype就变为了只有老宅男才玩的东西，这种刻板印象很难改变，一方面某室友不断的说只有含有H情节与R18内容的galgame才是真gal；另一方面是记得有人跟我说有款galgame叫《女装山脉》，后来了解了一下才发现这NM是关于一堆女装伪娘的游戏，我感到接受不能，于是对这种类型一直保持敬而远之的态度。
 
