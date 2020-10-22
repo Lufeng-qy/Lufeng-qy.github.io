@@ -61,10 +61,12 @@ tags:
 
 <img src="http://qiuyoungwang.github.io/images/img_blog_7/27.png" alt="局外人2" style="zoom: 50%;" />
 
-
 而夏甲又何尝没有经历过呢，毕竟64的噩梦，仍然时不时的成为午夜的梦魇。而又有谁来给夏甲们收拾烂摊子呢？是坦克兵，还是监禁室？
+
 <img src="http://qiuyoungwang.github.io/images/img_blog_7/24.png" alt="局外人2" style="zoom: 50%;" />
+
 <img src="http://qiuyoungwang.github.io/images/img_blog_7/29.png" alt="局外人2" style="zoom: 50%;" />
+
 <img src="http://qiuyoungwang.github.io/images/img_blog_7/30.png" alt="局外人2" style="zoom: 50%;" />
 
 
@@ -74,30 +76,36 @@ tags:
 
 <img src="http://qiuyoungwang.github.io/images/img_blog_7/17.png" alt="局外人2" style="zoom: 50%;" />
 
-
 你为茨维雅奋不顾身的勇气所吸引，只有打通true end才知道，这一地鸡毛都有家里给她兜底。
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\32.png" alt="32" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/32.png" alt="局外人2" style="zoom: 50%;" />
 
 你在游戏中甚至能看到一些现实生活中很常见，却又很无语的操作
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\9.png" alt="9" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/9.png" alt="局外人2" style="zoom: 50%;" />
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\4.png" alt="4" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/4.png" alt="局外人2" style="zoom: 50%;" />
 
 你甚至还可以做题，对，就是理综
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\36.png" alt="36" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/36.png" alt="局外人2" style="zoom: 50%;" />
 
 在这种氛围里，茨维雅成为了唯一的亮光，虽然她幼稚，冲动，缺乏对世界的基本的认识，但是她恰恰具有其他人所缺乏的：勇气。
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\茨维雅.png" alt="茨维雅" style="zoom:33%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/茨维雅.png" alt="局外人2" style="zoom: 50%;" />
+
+<br>
+
 
 你大可以批评其勇气来自于其常人无法比拟的家境，但是事物的来源并不能全然否定事物的价值。当不合理的东西成为默认的准则，那么将其打破的勇气与冲动便无比珍贵。成为一个所谓的刺头绝非易事，但是却很值得。这个值得并不往往指对于个人的价值，而是对于群体整体的价值。想开窗的时候，总是需要人来掀房顶，而茨维雅就是这样的人。她真的有做错什么嘛？是的，这么一闹正常高考的复习都被打断。她会为此感到后悔嘛？可能吧，但是又有谁能说这一切都是一个不谙世事的高中生的错呢？
 
 也许最后，官方可能这么记载这场闹剧：
 
+<br>
+
 ”因为境外势力的挑拨，导致了这场反老师反学校事件，所幸在校中央的紧密领导下，迅速拨乱反正，清除或改造了反动分子，使江城大学附属实验中学回到了正确的发展路线上来。我们应该坚持校长夏甲提出的科学教育观，贯彻落实......“
+
+<br>
 
 但是作为或旁观或经历的我们，不会忘掉，事情仅仅是出于对于不合理规则的不满罢了。也许随着当年的同学升入大学，之后或深造或走上工作岗位，会对当年的幼稚莞尔一笑，却忘不了那个在广播室里奋力呐喊的茨维雅。
 
@@ -109,7 +117,7 @@ tags:
 
 或许会有这样的扪心自问，但是重要的不是回答，而是问题本身。一个问题会导向许多不同的道路，不是所有的道路都是好的，但是只要那个可能性存在，就够了。
 
-
+<br>
 
 茨维雅最后去了大洋彼岸，与绝大部分同学再无缘分。而现实中，又能有多少茨维雅呢？当思想变得高度统一，又能给多少茨维雅们以容身之处呢？我眼前兀然浮现出修宪时梅园贴的“not my president” 的告示，那位茨维雅，现在又在哪里呢？互联网的蛮荒时代正在过去，实名化渗透进每一个角落，又有谁敢去成为一名茨维雅呢？做出改变是要承担代价的，而这个代价，以肉眼可见的速度变得越来越沉重。
 
@@ -121,107 +129,102 @@ tags:
 
 “我见过。”
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\31.png" alt="31" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/31.png" alt="局外人2" style="zoom: 50%;" />
 
 
-
-完
+### 完
 
 2020.10.22
 
-时阴湿微寒，月隐星疏
+时月隐星疏, 阴湿微寒
 
 于珞珈山
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
-
-
-
-
+<br>
 
 附：游戏中的有趣细节与吐槽
 
 
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/1.png" alt="局外人2" style="zoom: 50%;" />
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\1.png" alt="1" style="zoom:50%;" />
 
 太真实了
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\2.png" alt="2" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/2.png" alt="局外人2" style="zoom: 50%;" />
 
 其实不止北京（帝京）和上海（天港）啦
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\3.png" alt="3" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/3.png" alt="局外人2" style="zoom: 50%;" />
 
 啥是东方神起啊？
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\5.png" alt="5" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/5.png" alt="局外人2" style="zoom: 50%;" />
 
 说起来，高中的时候确实很流行三国杀.
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\7.png" alt="7" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/7.png" alt="局外人2" style="zoom: 50%;" />
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\8.png" alt="8" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/8.png" alt="局外人2" style="zoom: 50%;" />
 
-游戏中主角们所处的国家是中国与日本的奇怪结合体
+游戏中主角们所处的国家是中国与日本的奇怪结合体(在coda中也有体现)
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\10.png" alt="10" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/10.png" alt="局外人2" style="zoom: 50%;" />
 
 不信谣，不传谣.jpg
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\11.png" alt="11" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/11.png" alt="局外人2" style="zoom: 50%;" />
 
 真是很高中生的口号啊
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\12.png" alt="12" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/12.png" alt="局外人2" style="zoom: 50%;" />
 
-真•肥宅的梦想， 说起来，一起办女仆男生也要办嘛....
+真•肥宅的梦想， 说起来，一起扮女仆男生也要扮嘛....
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\13.png" alt="13" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/13.png" alt="局外人2" style="zoom: 50%;" />
 
 真实 * 2
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\14.png" alt="14" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/14.png" alt="局外人2" style="zoom: 50%;" />
 
 作者很懂嘛，把我的想法说出来了
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\15.png" alt="15" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/15.png" alt="局外人2" style="zoom: 50%;" />
 
 遇事不决寻衅滋事
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\16.png" alt="16" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/16.png" alt="局外人2" style="zoom: 50%;" />
 
-（ 没有！没有！没有！
+（ 没有！没有！没有！）
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\18.png" alt="18" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/18.png" alt="局外人2" style="zoom: 50%;" />
 
 这游戏人物的名字怎么都这么奇怪啊，这也太东西结合了吧
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\19.png" alt="19" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/19.png" alt="局外人2" style="zoom: 50%;" />
 
 没错
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\28.png" alt="28" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/28.png" alt="局外人2" style="zoom: 50%;" />
 
 再难吃能有桂园食堂难吃嘛
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\33.png" alt="33" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/33.png" alt="局外人2" style="zoom: 50%;" />
 
 嗯，常见的操作（说起来coda中男主其实转去了UCB)
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\34.png" alt="34" style="zoom:50%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/34.png" alt="局外人2" style="zoom: 50%;" />
 
 男主：“没错，这就是我。” （P.S. 现在看到奥尔加就想到了铁华团团长奥尔加...)
 
-<img src="N:\github_local\QiuyoungWang.github.io\images\img_blog_7\35.png" alt="35" style="zoom:40%;" />
+<img src="http://qiuyoungwang.github.io/images/img_blog_7/35.png" alt="局外人2" style="zoom: 50%;" />
 
 ture end男主和茨维雅一起跑路，真尼玛美好啊，看到有一条评论，挺有道理的（很有纸片人老婆的味道了）
 
@@ -231,7 +234,9 @@ ture end男主和茨维雅一起跑路，真尼玛美好啊，看到有一条评
 
 最后，附上官网地址，里面还有游戏的尾声（即coda), 直接从青春校园快进到了核战争，很劲爆
 
-https://class-two.com/
+[https://class-two.com/](https://class-two.com/)
+
+
 
 
 
