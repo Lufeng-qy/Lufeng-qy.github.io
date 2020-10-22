@@ -24,4 +24,5 @@ Since it's not for academic, I'll first write in Chinese, but then I will transl
 * Favorite job: Pokemon trainer 
 * Favorite charactor :  Yang Wenli ( *Legend of the Galactic Heroes* )
 * Favorite author : Xiaobo Wang ( 王小波 )
+* Favorite food: shrimps, mushroom
 
