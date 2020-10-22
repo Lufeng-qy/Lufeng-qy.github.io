@@ -17,7 +17,7 @@ tags:
 
 
 
-这里的《局外人》并不是加缪的那个一上来就 ”今天妈妈死了，也许是昨天，我不知道“ 的存在主义小说，而是一款八竿子都打不着的游戏。这个游戏知名度低的可怜，如果不是上课玩手机，我可能永远也不会知道它。可惜一旦我知道了，保持沉默似乎是一种吝啬，于是便有了这篇文章。
+这里的《局外人》并不是加缪的那个一上来就 ”今天妈妈死了，也许是昨天，我不知道“ 的存在主义小说，而是一款八竿子都打不着的游戏。这个游戏知名度低的可怜，如果不是上课玩手机，我可能永远也不会知道它。可惜一旦我知道了，保持沉默便是一种吝啬，于是便有了这篇文章。
 
 <p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/局外人2.png" alt="局外人2" style="zoom: 50%" ></center></p>
 
@@ -41,58 +41,58 @@ tags:
 
 于是游戏中奈鹤的一句话偏偏戳中了我的心
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/6.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/6.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 很多人都教导说，这是最好的时代，但是历史并不是一直前进的，也会时不时的倒退。马克思也说（虽然我也不知道他到底说没说过），历史是螺旋形发展的。浪漫的“校园革命”终会结束，就像好年景不会一直持续一样。玩闹散场，高考就在不远处静静的微笑。
 
 不可否认的，茨维雅（女主）的做法十分幼稚，这里是一所县中，而不是人大附中，也不是上海中学。你趁着校长的下台，打的倒应试教育，打的倒高考嘛？茨维雅家里是江城数一数二的富商，即使不高考，她也可以出国，但是陪着她一起“革命"的普通同学呢？又有谁能为他们负责？新校长夏甲对于茨维雅的批评简直是一语中的：
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/20.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/20.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/21.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/21.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/22.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/22.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/23.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/23.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/25.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/25.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/26.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/26.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/27.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/27.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 而夏甲又何尝没有经历过呢，毕竟64的噩梦，仍然时不时的成为午夜的梦魇。而又有谁来给夏甲们收拾烂摊子呢？是坦克兵，还是监禁室？
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/24.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/24.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/29.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/29.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/30.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/30.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 
 最后，大概是因为夏甲的同情，茨维雅没有被开除，尽管如此，她最后坐上了去LA的航班，彻底跑路。
 
 有人说，“闹完了就彻底跑路不管其他同学的茨维雅是屑。” 此话不假，但是我并不认为她是屑，她只不过是天真罢了，或者说，因为家境的关系，不识人间疾苦，这是无可厚非的，毕竟又有谁能指望一个高中生真的做出什么呢？现实不是日漫中高中生拯救世界，而是充满了混蛋事和无奈的悲哀。你以为校长因为贪污被抓是媒体正义的力量？错！那是因为校长与奇奇怪怪的人发生了瓜葛，才被打击报复，所谓的贪污，只不过是微不足道的一项罢了。
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/17.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/17.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 你为茨维雅奋不顾身的勇气所吸引，只有打通true end才知道，这一地鸡毛都有家里给她兜底。
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/32.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/32.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 你在游戏中甚至能看到一些现实生活中很常见，却又很无语的操作
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/9.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/9.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/4.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/4.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 你甚至还可以做题，对，就是理综
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/36.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/36.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 在这种氛围里，茨维雅成为了唯一的亮光，虽然她幼稚，冲动，缺乏对世界的基本的认识，但是她恰恰具有其他人所缺乏的：勇气。
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/茨维雅.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/茨维雅.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 <br>
 
@@ -129,7 +129,7 @@ tags:
 
 “我见过。”
 
-<img src="http://qiuyoungwang.github.io/images/img_blog_7/31.png" alt="局外人2" style="zoom: 50%;" />
+<p><center><img src="http://qiuyoungwang.github.io/images/img_blog_7/31.png" alt="局外人2" style="zoom: 50%;" /></center></p>
 
 
 ### 完
