@@ -4,9 +4,6 @@ date: 2020-06-17
 permalink: /posts/2020/06/blog_1_detective/
 tags:
   - game
-  - crime
-  - detective
-  - jotting
 ---
 
 ---
