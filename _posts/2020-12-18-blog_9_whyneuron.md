@@ -4,7 +4,7 @@ date: 2020-12-18
 permalink: /posts/2020/12/blog_9_whyneuron/
 tags:
   -neuroscience
-  -biography
+  -personal
 ---
 
 ---
