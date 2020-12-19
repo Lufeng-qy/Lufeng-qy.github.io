@@ -33,9 +33,8 @@ Research experience
   * Duties included: 
     * Simulated the memory performance of a Hopfield network with complex synapses model to solve the *catastrophic forgetting* problem
     * Built an auto-encoder model which can naturally generate place cells in hippocampus, and implemented the complex synapses model above to strengthen the history effect
-*  Mechanically studied the concept cells and its generation through auto-encoder model, which regarded concept cells as place cells in feature space
-    
-
+    * Mechanically studied the concept cells and its generation through auto-encoder model, which regarded concept cells as place cells in feature space
+  
 * 2018.6 - 2019.6 : Research Assistant
   * College of Chemistry and Molecular Sciences, Wuhan University
   * Advisor:  Xianzheng Zhang
