@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Qiuyang Wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry ( Honors degrees ), Wuhan University, 2017-2021 (overall GPA: 3.78/4.0)
+* B.S. in Chemistry (Honors degree), Wuhan University, 2017-2021 (overall GPA: 3.78/4.0)
 * Visiting student in Columbia College, Columbia University in the city of New York, 2020
 
 Research experience
@@ -21,34 +21,35 @@ Research experience
 
 * 2019.9 - 2020.3, 2020.9-now : Research Assistant
   * School of Math and Statistics, Wuhan University
-  * Jiwei Zhang's group
+  * Advisor: Jiwei Zhang
   * Duties included: 
-    * Research about spatially ordered network dynamics and its further implement (ongoing project)
-    * Research about new coarse-gaining method（PEA) to IF network
-  * Supervisor: Jiwei Zhang
-
+    * Mechanically studied a new coarse-graining framework partitioned ensemble average (PEA) to integrate-and-fire network with multiple-firing events to avoid the *curse of dimensionality*
+    * Rebuilt and improved a spatially ordered spiking neural network (SNN) model that matches the experimental result about neural correlation and attention
+    * Combined the PEA with spatially ordered SNN above to further simulate place cells in hippocampus and implement large scale simulation about V1 (ongoing project)
+  
 * 2020.5- 2020.9: Research Assistant
   * Centre of theoretical neuroscience, Columbia University
-  * Stefano Fusi's group
+  * Advisor: Stefano Fusi
   * Duties included: 
-    * Research about complex synapse model and its implement in place cell model
-    * Research about concept cell and its generation through auto-encoder model 
-
-  * Supervisor: Stefano Fusi
+    * Simulated the memory performance of a Hopfield network with complex synapses model to solve the *catastrophic forgetting* problem
+    * Built an auto-encoder model which can naturally generate place cells in hippocampus, and implemented the complex synapses model above to strengthen the history effect
+*  Mechanically studied the concept cells and its generation through auto-encoder model, which regarded concept cells as place cells in feature space
+    
 
 * 2018.6 - 2019.6 : Research Assistant
   * College of Chemistry and Molecular Sciences, Wuhan University
-  * Biochemical Medical Polymer Lab
+  * Advisor:  Xianzheng Zhang
   * Duties included:
-    * developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides.This work was published in Jounral of Materials Chemistry B [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
-    * research about non-systemetic drug delivery strategy to central neural system through axoplasmic transport
-  * Supervisor: Xianzheng Zhang
+    * Developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, which was published in *Jounral of Materials Chemistry B* [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
+    * Research about a novel drug delivery strategy across the blood–brain barrier to central neural system through axoplasmic transport
   
 Skills
 ======
-* Skilled in Python/Matlab programming (including pytorch)
-* Familiar with math modeling and numerical math, especially in neural system
-* Good at neural network and machine learning
+* Programming: python (most proficient), MATLAB, Julia, C++
+* Statistics: pandas(python), R
+* Math tools: SNN (Spiking Neural Network), pytorch, Machine Learning, Optimization
+* Experimental skills: Material Synthesis, Tumor Transplantation, Confocal Laser-Scanning Microscopy, Fluorescence Imaging
+* Languages: Chinese(native), English(fluent), Japanese(beginner)
 
 Publications
 ======
@@ -58,7 +59,7 @@ A. Zhang, W. Wu, et al.   *Journal of Materials Chemistry B*  2019-01
 Courses taken
 ======
 * Math:
-  Theory of PDEs, Theory of ODEs, Complex analysis, Numerical Math, Statistics and Probability, Stochastic processes, Discrete Math
+  Theory of PDEs, Theory of ODEs, Complex analysis, Numerical Math, Statistics, Probability, Stochastic processes, Discrete Math
 *  Computer Science:
   Data Structure, Machine Learning, Digital logic, C programming
 *  Biology and Chemistry:
