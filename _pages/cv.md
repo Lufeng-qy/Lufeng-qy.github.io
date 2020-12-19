@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf version](http://qiuyoungwang.github.io/files/CV_wqy.pdf)
 
 Education
 ======
