@@ -5,7 +5,6 @@ permalink: /posts/2020/08/blog_5_ultraman/
 tags:
   - ultraman
   - jotting
-  - tokusatsu
 ---
 
 ---
