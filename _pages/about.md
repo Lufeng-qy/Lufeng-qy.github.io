@@ -20,7 +20,7 @@ redirect_from:
 
 Although this website is mainly for academic (where one could view my research experiences, projects and thoughts), you could find something else interesting here. More details for me lays in the part '*more about me*', which contains nothing but my personal interest and hobbies. I also post blogs from time to time in this website, a few of them may be about computational neuroscience, but most of them are about my personal life and novels. If you wanna contact me more personally, my Wechat ID is  *ninanjieshizi*.
 
-
+<br />
 
 ### Well, enjoy your time in this website!
 
