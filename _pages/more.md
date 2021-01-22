@@ -10,10 +10,8 @@ redirect_from:
 ## This page has not been completed yet
 
 I will post something more about me here since it's not just a academic website.
-Since it's not for academic, I'll first write in Chinese, but then I will translate it to English. (Forgive my poor English writing skills!)
 
-* Hobbies: Escape/Detective games (not virtual game), Writing, looking maps 
-* Some favorites: Something about mystery (including :crime novel, virtual escape game, detective game, urban legend, mystery creature), Pokemon, Shiba Inu, Game bgm, Science fiction(near future)
+* Hobbies: Escape/Detective games, Immersion games, Writing
 * Favorite animal: Dogs, especially Shiba Inu ( 柴犬 )
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset
