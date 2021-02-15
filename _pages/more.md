@@ -23,4 +23,5 @@ I will post something more about me here since it's not just a academic website.
 * Favorite charactor :  Yang Wenli ( *Legend of the Galactic Heroes* )
 * Favorite author : Xiaobo Wang ( 王小波 )
 * Favorite food: Shrimps, Mushroom
+* 最讨厌的：键政，二刺螈死肥宅
 
