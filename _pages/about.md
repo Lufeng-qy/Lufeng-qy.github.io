@@ -10,7 +10,7 @@ redirect_from:
 
 ### Hi all, welcome to my personal website!
 
-### I'm Qiuyang Wang(*王秋阳*),  and people usually just call me 'Young'. Currently I'm an undergraduate in Wuhan University, China.
+### I'm Qiuyang Wang(*王秋阳*),  and people usually just call me 'Young'. Currently I'm a senior undergraduate in Wuhan University, China. And I'll be in Columbia University in 2021 Fall to complete a master degree in applied math.
 
 ### I'm strongly interested in computational neuroscience, where math, neurobiology and computer science meet together. My major is chemistry,  and I've done lots of coursework on applied math, CS and neurobiology. My past experiences cross various fields, including dynamics about spiking network, hippocampus model, hypercolumns(in V1) simulation, and biomaterials development, which  give me a mixed background for computational neuroscience.
 

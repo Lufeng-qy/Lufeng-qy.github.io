@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry (Honors degree), Wuhan University, 2017-2021 (overall GPA: 3.78/4.0)
+* B.S. in Chemistry (Honors degree), Wuhan University, 2017-2021 (overall GPA: 3.80/4.0)
 * Visiting student in Columbia College, Columbia University in the city of New York, 2020
 
 Research experience
