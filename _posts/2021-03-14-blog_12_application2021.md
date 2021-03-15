@@ -76,3 +76,4 @@ NYU肯定不用考虑了，毕竟哥大的applied math确实比NYU的scientific 
 
 好了就这些了，祝看到这篇文章的人也能得到想要的结果。:)
 
+[pdf see here](http://qiuyoungwang.github.io/files/application2021.pdf)
