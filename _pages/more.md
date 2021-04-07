@@ -11,7 +11,7 @@ redirect_from:
 
 I will post something more about me here since it's not just a academic website.
 
-* Hobbies: Escape/Detective games, Immersion games, Writing
+* Hobbies: Escape/Detective games, Writing
 * Favorite animal: Dogs, especially Shiba Inu ( 柴犬 )
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset
@@ -19,7 +19,7 @@ I will post something more about me here since it's not just a academic website.
 * Favorite drink: Coffee latte with black tea, Black tea with brandy
 * Favortie color: Cyan
 * Favorite season: Winter
-* Favorite job: Pokemon trainer 
+* Favorite job: ~~Pokemon trainer~~ 
 * Favorite charactor :  Yang Wenli ( *Legend of the Galactic Heroes* )
 * Favorite author : Xiaobo Wang ( 王小波 )
 * Favorite food: Shrimps, Mushroom
