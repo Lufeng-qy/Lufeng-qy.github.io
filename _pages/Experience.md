@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 
-
-. 
+I'll put my projects here, but not now, since I'm busy at playing splatoon2 !
