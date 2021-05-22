@@ -10,11 +10,11 @@ redirect_from:
 
 ### Hi all, welcome to my personal website!
 
-### I'm Qiuyang Wang(王秋阳),  and people usually just call me 'Young'. Currently I'm a senior undergraduate in Wuhan University, China. And I'll be in Columbia University in 2021 Fall to complete a master degree in applied math.
+### I'm Qiuyang Wang (王秋阳),  and you could just call me 'Yang'. Currently I'm a senior undergraduate in Wuhan University, China. And I'll be in Columbia University in 2021 Fall to complete a master degree in applied math.
 
-### I'm strongly interested in computational neuroscience, where math, neurobiology and computer science meet together. My major is chemistry,  and I've done lots of coursework on applied math, CS and neurobiology. My past experiences cross various fields, including spatially ordered spiking neural network, hippocampus model, population ensemble method in IF network  and biomaterials development, which  give me a mixed background for computational neuroscience.
+### I'm strongly interested in computational neuroscience, where math, neurobiology and computer science meet together. My major is chemistry,  and I've done lots of coursework on applied math, CS and neurobiology. My past experiences cross various fields, including spatially ordered spiking neural network, hippocampus model, population ensemble method in IF network  and biomaterials development, which  provide me with a mixed background for computational neuroscience.
 
-### Currently, my research interest lays in enmergent phenomena and coarse-graining  methods in spatially ordered SNN, synchronous firing in hippocampus, and, just out of curiosity, sociology.
+### Currently, my research interest lays in emergent phenomena and coarse-graining  methods in spatially ordered SNN, synchronous firing in hippocampus, and, just out of curiosity, sociology.
 
 <br/>
 

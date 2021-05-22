@@ -11,7 +11,7 @@ redirect_from:
 
 I will post something more about me here since it's not just a academic website.
 
-* Hobbies: Escape/Detective games, Writing
+* Hobbies: Detective games, Writing，密室逃脱
 * Favorite animal: Dogs, especially Shiba Inu ( 柴犬 )
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset
