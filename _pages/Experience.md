@@ -1,11 +1,12 @@
 ---
 permalink: /Experience/
-title: "Experience and Projects"
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
+Splatoon sucks! My aim is too bad, AIM IS TOO HARD!!!! Thus, I'll put my projects here soon.
 
-I'll put my projects here, but not now, since I'm busy at playing splatoon2 !
+Japanese sucks!!!
