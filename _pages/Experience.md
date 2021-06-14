@@ -7,6 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-Splatoon sucks! My aim is too bad, AIM IS TOO HARD!!!! Thus, I'll put my projects here soon.
+Once I get an A rank in Splatoon, I'll immediately put my past projects here.
 
-Japanese is usually good!!
+(A bad news is splatoon is kind of hard for me, since AIM IS HARD!!!)
