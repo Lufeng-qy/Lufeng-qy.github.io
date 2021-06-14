@@ -9,4 +9,4 @@ redirect_from:
 
 Splatoon sucks! My aim is too bad, AIM IS TOO HARD!!!! Thus, I'll put my projects here soon.
 
-Japanese sucks!!!
+Japanese is usually good!!
