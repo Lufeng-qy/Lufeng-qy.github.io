@@ -52,7 +52,7 @@ tags:
 
 多哈飞纽约乘客除了少数中国留学生，还有美国人外，基本都是中东/印度人（印度人是因为卡塔尔有很多印度劳工），这就显得不是很安全。不过因为我算准了时间，在出发前3天才打了第二针疫苗，所以对自己的抵抗力还算放心。甚至还在飞机上吃了不少，有一说一，那个鸡肉确实好吃，土豆烤的火候也恰到好处。第一程的时候还吃到了中东的传统食物，西红柿和小米还有其他的香料拌在一起，只能说不合我的胃口。邻座小姐姐表示理解，因为挪威接受难民的缘故，她也得以品尝过这种沙漠“美食”。
 
-z我更喜欢看窗外的景色，枉活22年，竟没有见过沙漠。飞机上看多哈，城区虽繁华，却是灰扑扑的一片，大兴土木似是为了2022的世界杯。而远眺则是一望无垠的沙漠。虽然飞机虽然跃至平流层，地上的景致却清晰可见，果然是沙漠地区。偶尔掠过一些无甚绿意的城镇和灌溉而成的绿色圆圈，便又是接连无际的黄沙。直至出现一片狭窄的海域，竟是红海。大概是因为接近运河的缘故，比我想象的要狭窄许多。在苏伊士运河出现前的年代，凡尔纳浪漫地将一个海底通路赋予红海，以让鹦鹉螺号得以在红海与地中海之间穿梭。运河通航，这条幽深的隧道也烟消云散，只留下长荣号搁浅的巨影。
+我更喜欢看窗外的景色，枉活22年，竟没有见过沙漠。飞机上看多哈，城区虽繁华，却是灰扑扑的一片，大兴土木似是为了2022的世界杯。而远眺则是一望无垠的沙漠。飞机虽然跃至平流层，地上的景致却清晰可见，果然是沙漠地区。偶尔掠过一些无甚绿意的城镇和灌溉而成的绿色圆圈，便又是接连无际的黄沙。直至出现一片狭窄的海域，竟是红海。大概是因为接近运河的缘故，比我想象的要狭窄许多。在苏伊士运河出现前的年代，凡尔纳浪漫地将一个海底通路赋予红海，让鹦鹉螺号得以在红海与地中海之间穿梭。运河通航，这条幽深的隧道也烟消云散，只留下长荣号搁浅的巨影。
 <p><center><img src="http://qiuyoungwang.github.io/images/blog17/10.png" alt="10" style="zoom: 10%" ></center></p><p><center><img src="http://qiuyoungwang.github.io/images/blog17/11.png" alt="11" style="zoom: 10%" ></center></p><p><center><img src="http://qiuyoungwang.github.io/images/blog17/12.png" alt="12" style="zoom: 10%" ></center></p>
 <p><center><img src="http://qiuyoungwang.github.io/images/blog17/13.png" alt="13" style="zoom: 10%" ></center></p>
 <p><center><img src="http://qiuyoungwang.github.io/images/blog17/14.png" alt="14" style="zoom: 10%" ></center></p>
@@ -85,7 +85,7 @@ z我更喜欢看窗外的景色，枉活22年，竟没有见过沙漠。飞机�
 <p><center><img src="http://qiuyoungwang.github.io/images/blog17/26.png" alt="26" style="zoom: 10%" ></center></p>
 站在BK望曼哈顿downtown
 
-其实布鲁克林大桥旁还有一个曼哈顿大桥，有人说那里移步换景，正想前去，又想起网上说这两座桥的区别：Brooklyn bridge is touristy but not loud, while Manhattan bridge is not touristy but loud. 等我到了桥下，才明白not touristy but loud的真正含义：地铁时不时在头顶呼啸而过，震耳欲聋，于是过桥之行之好作罢。说起来许多人喜欢在一个DUMBO十分工业风的地方打卡曼哈顿大桥，在那里拍照帝国大厦正好在桥洞中央，似乎是因为高圆圆的缘故那里成了网红景点。我对此并无兴致，反而认为这种照片比千篇一律的网红照片更有趣。
+其实布鲁克林大桥旁还有一个曼哈顿大桥，有人说那里移步换景，正想前去，又想起网上说这两座桥的区别：Brooklyn bridge is touristy but not loud, while Manhattan bridge is not touristy but loud. 等我到了桥下，才明白not touristy but loud的真正含义：地铁时不时在头顶呼啸而过，震耳欲聋，于是过桥之行之好作罢。说起来许多人喜欢在DUMBO一个十分工业风的地方打卡曼哈顿大桥，在那里拍照帝国大厦正好在桥洞中央，似乎是因为高圆圆的缘故那里成了网红景点。我对此并无兴致，反而认为下面这张照片比千篇一律的网红照片更有趣。
 <p><center><img src="http://qiuyoungwang.github.io/images/blog17/25.png" alt="25" style="zoom: 10%" ></center></p>
 曼哈顿大桥与一栋高楼，最喜欢的一张照片
 
