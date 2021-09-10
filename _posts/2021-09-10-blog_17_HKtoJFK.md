@@ -5,7 +5,7 @@ permalink: /posts/2021/17/blog_17_HKtoJFK/
 tags:
   - jotting
   - travel
-typora-root-url: ../images/blog17/1.png
+
 ---
 
 ---
