@@ -13,13 +13,14 @@ redirect_from:
 
 Education
 ======
+* M.S. in Applied Math, Columbia University in the city of New York, 2021-2022 (expected)
 * B.S. in Chemistry (Honors degree), Wuhan University, 2017-2021 (overall GPA: 3.80/4.0)
 * Visiting student in Columbia College, Columbia University in the city of New York, 2020
 
 Research experience
 ======
 
-* 2019.9 - 2020.3, 2020.9-now : Research Assistant
+* 2019.9 - 2020.3, 2020.9-2021.5 : Research Assistant
   * School of Math and Statistics, Wuhan University
   * Advisor: Jiwei Zhang
   * Duties included: 
@@ -57,7 +58,7 @@ A. Zhang, W. Wu, et al.   *Journal of Materials Chemistry B*  2019-01
 Courses taken
 ======
 * Math:
-  Theory of PDEs, Theory of ODEs, Complex Analysis, Numerical Math, Statistics, Probability, Stochastic Processes, Discrete Math
+  Theory of PDEs, Theory of ODEs, Modern Analysis, Modern Algebra, Complex Functions, Numerical Math, Statistics, Probability, Stochastic Processes, Math for Data Science, Discrete Math
 *  Computer Science:
   Data Structure, Machine Learning, Digital Logic, C programming
 *  Biology and Chemistry:
