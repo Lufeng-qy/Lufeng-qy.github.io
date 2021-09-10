@@ -1,5 +1,5 @@
 ---
-title: '不算游记的游记：多哈赴美长转机及布鲁克林十日游‘
+title: '不算游记的游记：多哈赴美长转机及布鲁克林十日游'
 date: 2021-09-10
 permalink: /posts/2021/17/blog_17_HKtoJFK/
 tags:
