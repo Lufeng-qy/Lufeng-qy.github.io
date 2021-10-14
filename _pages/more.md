@@ -15,7 +15,7 @@ I will post something more about me here since it's not just a academic website.
 * Favorite animal: Dogs, especially Shiba Inu ( 柴犬 )
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset, Annie Hall
-* Favortie games: Hollow Knight, Phenix Wright 123, Disco Elysium
+* Favortie games: Hollow Knight, Disco Elysium, Detention(返校)
 * Favorite drink: Coffee latte with black tea, Black tea with brandy
 * Favortie color: Cyan
 * Favorite season: Winter
