@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **M.S.** in Applied Math, Columbia University in the city of New York, 2021-2022 (expected)
+* **M.S.** in Applied Math, Columbia University in the city of New York, 2021-2023 (expected)
 * **B.S.** in Chemistry (Honors degree), Wuhan University, 2017-2021 (overall GPA: 3.81/4.0)
 * Visiting student in Columbia College, Columbia University in the city of New York, 2020
 
