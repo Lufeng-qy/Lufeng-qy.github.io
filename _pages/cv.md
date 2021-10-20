@@ -20,7 +20,7 @@ Education
 Research experience
 ======
 
-* 2019.9 - 2020.3, 2020.9-2021.5 : Research Assistant
+* 2020.9-2021.5 : Research Assistant
 
 * **Coarse-graining method for IF network and Dynamics in spatially ordered SNN**
   
