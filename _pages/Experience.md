@@ -15,7 +15,7 @@ I'm trying, but life is hard sometimes...(e.g. playing splatoon!)
 
 
 
-#### Coarse Graining method for IF network and spatially ordered network
+## Coarse Grained method for IF network and spatially ordered network
 
 IF neural network is a more bioloical neural network compared with the artificial neural network (ANN). It captures the key feature of neurons, namely spikes. However, it's really expansive to evolve this network because of the *curse of the dimensionality*. In ANN, the computation is quite fast, since the activation function is simple and the derivation is somehow trivial. In IF network however, we have to solve equation like this (the 2nd term in right hand side repersent the total input, both from the noise and other presynaptic neurons)
 
@@ -49,9 +49,11 @@ $$\rho_{eq}^Q=C\exp(-\frac{(v-\mu^Q)^2}{(\sigma^Q)^2})\int^{(V_T-\mu^Q)/\sigma^Q
 
 $$\rho_{me}(v)=\rho_{eq}(v)\exp(\sum_{j=0}^N\lambda_jv^j-1)$$
 
-Above all, we could get the firing rate of a IF network with simply solving ODEs. This method is both fast and accurate...
+Above all, we could get the firing rate of a IF network with simply solving ODEs. This method is both fast and accurate, the result is shown here
 
+<p><center><img src="http://qiuyoungwang.github.io/images/projects/Jiwei_1.png" alt="Jiwei_1" style="zoom: 50%" ></center></p>
 
+I also built a spatially ordered IF network for further analysis.
 
 #### More biological hippocampus model via cascade synapses
 
