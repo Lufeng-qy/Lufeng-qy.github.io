@@ -20,43 +20,46 @@ Education
 Research experience
 ======
 
+* **Coarse-grained method for IF network and Dynamics in spatially ordered SNN**
+
+* Advisor: Jiwei Zhang    School of Math and Statistics, Wuhan University
+
 * 2020.9-2021.5 : Research Assistant
 
-* **Coarse-graining method for IF network and Dynamics in spatially ordered SNN**
-  
-  * School of Math and Statistics, Wuhan University
-  * Advisor: Jiwei Zhang
-  * Duties included: 
-    * Mechanically studied a new coarse-graining framework for integrate-and-fire (IF) network to reduce the dimensionality.
+* Duties included:
+
+  * Mechanically studied a new coarse-graining framework for integrate-and-fire (IF) network to reduce the dimensionality.
+
+  * Rebuilt and improved a spatially ordered spiking neural network (SNN) model that matches the experimental result about neural variability.
+
+  * Modelled the CaMKII pathway in neurons with kinetic equations to show its on/off property in LTP.
+
     
-    * Rebuilt and improved a spatially ordered spiking neural network (SNN) model that matches the experimental result about neural variability.
-    
-    * Built a molecular interaction network model in neuron to capture the STDP property.
-    
-      
-  
-* 2020.5- 2020.9: Research Assistant
 
 * **Place cells generation via auto-encoder model with a strong history effect**
-  
-  * Centre of theoretical neuroscience, Columbia University
-  * Advisor: Stefano Fusi
-  * Duties included: 
-    * Simulated the memory performance of a Hopfield network with cascade synapses model to solve the *catastrophic forgetting* problem.
+
+* Advisor: Stefano Fusi     Centre of Theoretical Neuroscience, Columbia University
+
+* 2020.5- 2020.9: Research Assistant
+
+* Duties included: 
+
+  * Simulated the memory performance of a Hopfield network with cascade synapses model to solve the *catastrophic forgetting* problem.
+
+  * Built an auto-encoder model which can naturally generate place cells in hippocampus, and implemented the cascade synapses model above to strengthen the history effect.
+
     
-    * Built an auto-encoder model which can naturally generate place cells in hippocampus, and implemented the cascade synapses model above to strengthen the history effect.
-    
-      
-  
-* 2018.6 - 2019.6 : Research Assistant
-  
+
 * **A novel antimicrobial treatment and a non-systematic drug delivery method**
-  
-  * College of Chemistry and Molecular Sciences, Wuhan University
-  * Advisor:  Xianzheng Zhang
-  * Duties included:
-    * Developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, which was published in *Jounral of Materials Chemistry B*. [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
-    * Tested the idea about non-systematic drug delivery strategy to central neural system through axoplasmic transport.
+
+* Advisor: Xianzheng Zhang.    College of Chemistry and Molecular Sciences, Wuhan University
+
+* 2018.6 - 2019.6 : Research Assistant
+
+* Duties included:
+
+  * Developed a novel anti-bacterial method combining photodynamic therapy and chimeric peptides, which was published in *Jounral of Materials Chemistry B*. [see here](https://qiuyoungwang.github.io/files/BMP_paper.pdf)
+  * Tested the idea about non-systematic drug delivery strategy to central neural system through axoplasmic transport.
 
 Skills
 ======

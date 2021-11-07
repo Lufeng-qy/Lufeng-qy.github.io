@@ -17,7 +17,7 @@ I'm trying, but life is hard sometimes...(e.g. playing splatoon!)
 
 ## Coarse Grained method for IF network and Spatially Ordered Network
 
-**Advisor: Jiwei Zhang   School of Mathematics and Statistics, Wuhan University, China**
+**Advisor: Jiwei Zhang     School of Mathematics and Statistics, Wuhan University, China**
 
 Integral-and-Fire(IF) neural network is a more biological neural network compared with the artificial neural network (ANN). It captures the key feature of neurons, namely spikes. However, it's really expansive to evolve this network because of the *curse of the dimensionality*. In ANN, the computation is quite fast, since the activation function is simple and the derivation is somehow trivial. In IF network however, we have to solve equation like this for each time step 
 
@@ -65,7 +65,7 @@ I also built a spatially ordered IF network for further analysis.(The method dis
 
 ## More biological hippocampus model via cascade synapses
 
-**Advisor: Stefano Fusi  Centre of Theoretical Neuroscience, Columbia University, U.S.** 
+**Advisor: Stefano Fusi      Centre of Theoretical Neuroscience, Columbia University, U.S.** 
 
 "Your past shapes your future". This most philosophical quote describes the importance of hippocampus. Yet many myteries reamains unsolved in this old, paleomammalian structure, place cells is one of the most attractive features for me.
 
@@ -87,6 +87,8 @@ Above all, we have shown that power of cascade synapse in avoiding the *catastro
 
 
 ## CaMKII Pathway Model for LTP (Part of the Bachelor Degree Thesis)  
+
+**Advisor: Shengli Chen     College of Chemistry and Molecular Sciences, Wuhan University, China**
 
 Spike Timing Dependent Plasticity (STDP) is believed to be a general rule in human learning. Basically, *neurons fire together, wire together*. The change of the synaptic weight is related to the time interval between pre and post synaptic spikes. However, it remains unclear how neurons can generate such a behavior. And important molecular in such a physiological process is CaMKII, which is generall considered as bistable switch molecular in LTP. Here the CaMKII pathway is shown below. 
 
@@ -113,6 +115,8 @@ Yet CaMKII here is not strictly bistable, since the concentration of activated C
 Above all, we modeled the CaMKII pathway, and showed that CaMKII could be a molecular switch in LTP. 
 
 ## Anti-bactrier materials
+
+**Advisor: Xianzheng Zhang        College of Chemistry and Molecular Sciences**
 
 Well, this project is about chemistry and materials (literally *cooking*). So I'll talk about them later...
 
