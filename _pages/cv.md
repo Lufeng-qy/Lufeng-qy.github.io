@@ -28,7 +28,7 @@ Research experience
 
 * Duties included:
 
-  * Mechanically studied a new coarse-graining framework for integrate-and-fire (IF) network to reduce the dimensionality.
+  * Mechanically studied a new coarse-graining framework based on flow method for integrate-and-fire (IF) network to reduce the dimensionality.
 
   * Rebuilt and improved a spatially ordered spiking neural network (SNN) model that matches the experimental result about neural variability.
 
