@@ -85,7 +85,7 @@ Above all, we have shown that power of cascade synapse in avoiding the *catastro
 
 Here is the generated place cells with their typical behavior
 
-<p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi_4.png" alt="Fusi_4" style="zoom: 50%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi_4.png" alt="Fusi_4" style="zoom: 30%" ></center></p>
 
 
 
