@@ -63,11 +63,11 @@ Research experience
 
 Skills
 ======
-* Programming: python (most proficient), MATLAB, C, Latex, Julia(beginner)
+* Programming: python (most proficient), MATLAB, C, Java, Latex, Julia(beginner)
 * Statistics: pandas(python), R
 * Math tools: SNN (Spiking Neural Network), pytorch, Machine Learning,
 * Experimental skills: Material Synthesis, Tumor Transplantation, Confocal Laser-Scanning Microscopy, Fluorescence Imaging
-* Languages: Chinese(native), English(fluent), Japanese(beginner)
+* Languages: Chinese(native), English(fluent)
 
 Publications
 ======
