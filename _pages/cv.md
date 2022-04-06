@@ -20,7 +20,7 @@ Education
 Research experience
 ======
 
-* **Coarse-grained method for IF network and Dynamics in spatially ordered SNN**
+* **Coarse-grained method for PDEs of Integrate-and-Fire neural network**
 
 * Advisor: Jiwei Zhang    School of Math and Statistics, Wuhan University
 
@@ -28,7 +28,7 @@ Research experience
 
 * Duties included:
 
-  * Mechanically studied a new coarse-graining framework based on flow method for integrate-and-fire (IF) network to reduce the dimensionality.
+  * Mechanically studied a new coarse-grained framework to solve the Integrate-and-Fire (IF) network based on PDEs to avoid *the curse of dimensionality*
 
   * Rebuilt and improved a spatially ordered spiking neural network (SNN) model that matches the experimental result about neural variability.
 
@@ -63,9 +63,8 @@ Research experience
 
 Skills
 ======
-* Programming: python (most proficient), MATLAB, C, Java, Latex, Julia(beginner)
-* Statistics: pandas(python), R
-* Math tools: SNN (Spiking Neural Network), pytorch, Machine Learning,
+* Programming: python (most proficient), MATLAB, C, Latex, Julia(beginner), Java(beginner)
+* Research tools: PyTorch, scikit-learn, pandas, numpy
 * Experimental skills: Material Synthesis, Tumor Transplantation, Confocal Laser-Scanning Microscopy, Fluorescence Imaging
 * Languages: Chinese(native), English(fluent)
 
@@ -77,7 +76,7 @@ A. Zhang, W. Wu, et al.   *Journal of Materials Chemistry B*  2019-01
 Courses taken
 ======
 * Math:
-  Theory of PDEs, Theory of ODEs, Modern Analysis, Modern Algebra, Complex Functions, Numerical Math, Statistics, Probability, Optimization, Stochastic Process
+  Differential Manifolds, Dynamic System, Theory of PDEs, Theory of ODEs, Modern Analysis, Modern Algebra, Complex Functions, Numerical Math, Statistics, Probability, Optimization, Stochastic Process
 *  Computer Science:
   Data Structure, Machine Learning, Digital Logic, C programming
 *  Biology and Chemistry:
