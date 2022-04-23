@@ -7,5 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-cool!
+I'll put somes courses taken before here. Mainly lecture notes, thoughts, and course projects.
+
+(I think I can do it before June, but let's see...)
 
