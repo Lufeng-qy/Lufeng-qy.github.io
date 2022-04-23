@@ -1,6 +1,6 @@
 ---
 title: "A versatile bacterial membrane-binding chimeric peptide with enhanced photodynamic antimicrobial activity"
-excerpt: 'yes, it's literally cooking'
+excerpt: 'yes, it is literally cooking'
 date: 2019-01-08
 venue: 'Journal of Materials Chemistry B'
 paperurl: 'http://qiuyoungwang.github.io/files/BMP_paper.pdf'
