@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Chapter 12 Silver Moon: To War"
+excerpt: "keke, alusa. Harry Potter is DeAd!<br/><img src='/images/hollow_knight_lake.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+孔子东游，见两小儿辩日。\
+
+一儿曰：‘日远。不闻人从日边来，居然可知。‘\
+
+一儿曰：’日近，举目见日，不见长安。‘\
+
+子曰：‘扯NM蛋'\
+
+[Download paper here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1s)
