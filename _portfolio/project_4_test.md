@@ -1,6 +1,6 @@
 ---
 title: "Chapter 12 Silver Moon: To War"
-excerpt: "keke, alusa. Harry Potter is DeAd!<br/><img src='/images/hollow_knight_lake.jpg'  style="zoom: 50%" >"
+excerpt: "keke, alusa. Harry Potter is DeAd!<br/><img src='/images/hollow_knight_lake.jpg'>"
 collection: portfolio
 ---
 
