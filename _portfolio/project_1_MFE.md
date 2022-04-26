@@ -1,11 +1,10 @@
 ---
-title: "Coarse-Grained method for Integral-and-Fire network and Spatially Ordered Network"
+title: "Coarse Grained method for Integral and Fire network and Spatially Ordered Network"
 excerpt: "PDEs in IF neural network<br/><img src="images/projects/Jiwei_1.png">"
 collection: portfolio
 ---
 
 
-## Coarse-Grained method for Integral-and-Fire network and Spatially Ordered Network
 
 **Advisor: Jiwei Zhang**
 
