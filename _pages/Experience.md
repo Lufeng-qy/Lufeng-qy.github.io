@@ -7,9 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-**This page has not been completed yet**...
 
-I'm trying, but life is hard sometimes...(e.g. playing splatoon!)
 
 ---
 

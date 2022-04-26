@@ -18,8 +18,9 @@ I will post something more about me here since it's not just a academic website.
 * Favortie color: Cyan
 * Favorite season: Winter
 * Favorite job: ~~Pokemon trainer~~ 
-* Favorite charactor:  Yang Wenli ( *Legend of the Galactic Heroes* )
-* Favorite author: Xiaobo Wang ( 王小波 ), Gabriel García Márquez
+* Favorite charactor:  Yang Wenli ( *Legend of the Galactic Heroes* )(杨威利，按作者意，实为杨文里) (Yes, I like being called as 'Yang' because of him)
+* Favorite author: Xiaobo Wang (王小波 ), Gabriel García Márquez
+* Favorite scientist: Francis Crick
 * Favorite food: Shrimps, Mushroom
 * 最讨厌的：键政
 
