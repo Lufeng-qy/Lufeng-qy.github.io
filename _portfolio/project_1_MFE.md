@@ -2,7 +2,7 @@
 title: "Coarse-Grained method for Integral-and-Fire network and Spatially Ordered Network"
 excerpt: "PDEs in IF neural network 
 Advisor:Jiwei Zhang		School of Mathematics and Statistics, Wuhan University, China
-<br/><img src="http://qiuyoungwang.github.io/images/projects/Jiwei_1.png" alt="Jiwei_1" style="zoom: 50%" >"
+<br/><img src="http://qiuyoungwang.github.io/images/projects/Jiwei_1.png" style="zoom: 50%" >"
 collection: portfolio
 ---
 
