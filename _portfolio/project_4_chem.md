@@ -1,12 +1,12 @@
 ---
 title: "Anti-bactrier materials"
-excerpt: "Literally cooking<br/><img src='/images/hollow_knight_lake.jpg'>"
+excerpt: "Literally cooking<br/>hey I can make is longer to longer to longer<br/><img src='/images/hollow_knight_lake.jpg'>"
 collection: portfolio
 ---
 
 
 
-**Advisor: Xianzheng Zhang        **
+**Advisor: Xianzheng Zhang**
 
 **College of Chemistry and Molecular Sciences**
 
