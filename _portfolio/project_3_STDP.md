@@ -10,6 +10,8 @@ collection: portfolio
 
 **College of Chemistry and Molecular Sciences, Wuhan University, China**
 
+### Actually this is a trivial work and I'm not satisfied with my bachelor thesis, so I decide not to post the thesis here...
+
 Spike Timing Dependent Plasticity (STDP) is believed to be a general rule in human learning. Basically, *neurons fire together, wire together*. The change of the synaptic weight is related to the time interval between pre and post synaptic spikes. However, it remains unclear how neurons can generate such a behavior. And important molecular in such a physiological process is CaMKII, which is generall considered as bistable switch molecular in LTP. Here the CaMKII pathway is shown below. 
 
 Note that CaMKII can phosphorylate itself. So when the concentration is high, it could be quickly activated. (To simplify our system, we assume that when $[CaMKII]$ go beyond a threshold, the self-phosphorylation starts)
