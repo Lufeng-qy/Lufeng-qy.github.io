@@ -1,6 +1,6 @@
 ---
 title: "Coarse Grained method for Integral and Fire network"
-excerpt: "PDEs in IF neural network<br/><img src='/images/projects/Jiwei_1.png'>"
+excerpt: "PDEs in IF neural network<br/><img src='/images/projects/Jiwei_1.png' width='400' height='400'>"
 collection: portfolio
 ---
 

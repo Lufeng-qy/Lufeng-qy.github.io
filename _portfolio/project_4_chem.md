@@ -1,6 +1,6 @@
 ---
 title: "Anti-bactrier materials"
-excerpt: "Literally cooking<br/>hey I can make is longer to longer to longer<br/><img src='/images/hollow_knight_lake.jpg' width='200' height='200'>"
+excerpt: "Literally cooking<br/>Where is SiLk SoNg???<br/><img src='/images/hollow_knight_lake.jpg' width='400' height='400'>"
 collection: portfolio
 ---
 

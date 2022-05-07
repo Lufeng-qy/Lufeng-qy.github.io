@@ -1,6 +1,6 @@
 ---
 title: "CaMKII Pathway Model for LTP (Part of the Bachelor Degree Thesis)"
-excerpt: "Simple model for mechanism of STDP<br/><img src='/images/projects/shengli_1.png'>"
+excerpt: "Simple model for mechanism of STDP<br/><img src='/images/projects/shengli_1.png' width='400' height='400'>"
 collection: portfolio
 ---
 
