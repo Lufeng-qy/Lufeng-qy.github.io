@@ -1,6 +1,6 @@
 ---
 title: "More biological hippocampus model via cascade synapses"
-excerpt: "Place cells generation via hippocampus model with cascade synapse<br/><img src="/images/projects/fusi_4.png">"
+excerpt:"hippocampus model with cascade synapse<br/><img src="/images/projects/fusi_4.png">"
 collection: portfolio
 ---
 

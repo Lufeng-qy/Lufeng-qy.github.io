@@ -53,3 +53,11 @@ Above all, we could get the firing rate of a IF network by simply dealing with t
 I also built a spatially ordered IF network with for further analysis.
 
 (This method can be generalized to spatially ordered IF network, which can be used in V1 simulation, but we have to do some modifications)
+
+
+
+Some reference
+
+[1]Zhang, J. W., & Rangan, A. V. (2015). A reduction for spiking integrate-and-fire network dynamics ranging from homogeneity to synchrony. *Journal of Computational Neuroscience*, *38*(2), 355-404.
+
+[2]Zhang, J., Shao, Y., Rangan, A. V., & Tao, L. (2019). A coarse-graining framework for spiking neuronal networks: from strongly-coupled conductance-based integrate-and-fire neurons to augmented systems of ODEs. *Journal of computational neuroscience*, *46*(2), 211-232.
