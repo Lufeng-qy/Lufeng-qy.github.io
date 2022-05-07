@@ -1,6 +1,6 @@
 ---
 title: "More biological hippocampus model via cascade synapses"
-excerpt: "hippocampus model with cascade synapse<br/><img src='/images/projects/fusi_4_copy.png'>"
+excerpt: "hippocampus model with cascade synapse<br/><img src='/projects/fusi_4.png' width='400' height='400'>"
 collection: portfolio
 ---
 
