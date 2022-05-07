@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /Experience/
+    url: /test/
     
   - title: "Publications"
     url: /publications/      
@@ -19,6 +19,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Test"
-    url: /test/
-    
+  - title: "test"
+    url: /Experience/
