@@ -22,5 +22,5 @@ I will post something more about me here since it's not just a academic website.
 * Favorite author: Xiaobo Wang (王小波 ), Gabriel García Márquez
 * Favorite scientist: Francis Crick
 * Favorite food: Shrimps, Mushroom
-* 最讨厌的：键政
+* 最讨厌的：中文键政
 
