@@ -17,7 +17,7 @@ tags:
 > I replayed **Disco Elysium** for the second run these days. It's one of the best games I ever played. It's more like a literature than a video game, or a spiritual drug or alcohol.(now the top3 game list are Hollow Knight, Disco Elysium, Detention(返校)). And I enjoyed it in English version, which somehow means, my reading skills is indeed getting better. Anyway, I'm writing some of my messy thoughts about it. (or in the fancy name of stream of consciousness)
 > 
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/Revachol.jpg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/Revachol.jpg" alt="1" style="zoom: 50%" ></center></p>
 
 (Image credit: Aleksander Rostov)
 
@@ -27,13 +27,13 @@ Long story short, let's start my fragments of thoughts. The detials would go wro
 
 (And yes, there will be a lot of spoilers. If you hate spoilers, do not read it. For me, I'm a spoiler enjoyer. Like when reading a novel, I always can't help to read the ending first, even detective novels!)
 
-#### Basic Setup
+## Basic Setup
 
 Harry Du Bios is the main character, a broken and pathetic officer, immersed in drugs and alcohol, divorced with his ex wife(in his dream, he called her the \*ex-thing\*) and trapped his mirage past. Somehow he forgot all his memory in the past(retrograde amnesia) at the beginning of the game, and we need to find what kind of detective he *is* in the gameplay (yea, how conventional). He is here, in Martinaise, to solve a murder case, but the case is merely a reason for him and his partener, Kim Kitsuragi, to be in Martinaise, Revachol. This is not a detective game, logic has nothing to play in this show, instead, try to be sensitive and emotional, read the wind, kneel to a broken glass and try opening an unopenable door. Otherwise, you will be disappointed when realizing how **simple** the case is. 
 
-#### Martinaise, and la Revachol
+## Martinaise, and la Revachol
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/massacre.jpeg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/massacre.jpeg" alt="1" style="zoom: 50%" ></center></p>
 
 Martinaise is a suck place. The former glory is far gone, only remaining shabby collapsing building and ironic king statue charging headlong at the viod. Actually Martinaise is in Jamrock, a district in Revachol. While Revachol, is a country or a city state. The history goes like this (a mixture of Russia and eastern Europe), at the end of the kingdom era, the communists took over during the Revolution and hanged the king. However, terrified by the communes, the captical world, or Coalition, invaded Revachol and killed the communists again. 
 
@@ -41,9 +41,9 @@ Martinaise is a suck place. The former glory is far gone, only remaining shabby 
 
 It became the zone of control after that, experiencing the economic boom in 30s and the recession nowadays. 
 
-#### Dolores Dei
+## Dolores Dei
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/Dolores.jpeg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/Dolores.jpeg" alt="1" style="zoom: 50%" ></center></p>
 
 The most well-known and perhaps the greatest innocence. An innocence in the game is something like a great historical figure, usually greater than a king or queen. Loosely speaking, it is the history itself, the personified history. As for Dolores Dei, she is 'the innocence of humanlism, the internationalism and the welfare state, perhaps the most famous human being ever to have lived.' During her era, people finally cross the pale (will explain later, for now, you can think it as the ocean, while the continent in our real world, is called isola in the disco world) and discovered the New New World, marking the beginning of the interisola communication or colonialization whatever you say.
 
@@ -53,9 +53,9 @@ As you may notice, Dolores Dei is the West(in our history). It's the history of 
 
 Also, Dolores Dei is also the projection of Dora, Harry's ex-wife in the real world, since he has fucking forgotten what she looks like (plz see [this video](https://www.youtube.com/watch?v=p0sgQ70n_Kk&list=PLZwvB9Md_8udSt0wr-BvJGQw92Tw1plm4&index=11)). Somehow Doroles Dei and Dora has something in common. They both give warmth and humanity to people (Harry), but also hurt them(Harry) deeply. So in his dream, you can shout at the Dolores Dei Dora, accusing her as a "Mass Murderer!!!"
 
-#### the Pale
+## the Pale
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/fucktheworld.jpeg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/fucktheworld.jpeg" alt="1" style="zoom: 50%" ></center></p>
 
 Just like our real world, the Disco world consists of continients of matters, called isolas, surrounded by a separetive tissue, called the pale. In other words, the world is a broken reality floated on the ocean of void. The whole world, by the modern knowlege, seems like a broken disco ball with a dark grey corona. 
 
@@ -81,7 +81,7 @@ Unfortunately, it seems the pale keeps expanding, sallowing the reality with an 
 
 An even more horrible thing is although the pale is almost external of isola, there is some evidence showing the pale could form inside the isola, called isolary entroponetics. This is god damn true, since in the game we have detected the 2mm hole of reality in a Dolorian humanity church and maybe in the doomed commercial area as well.
 
-#### Hardcore and the Insulindian Phasmid
+## Hardcore and the Insulindian Phasmid
 
 The world SUCKS, and seems to end sooner or later, yet we still have to carry on, put our pieces back and fuck the world or be fucked by the fucking world. Life always goes on whatever happens, so why not have some god damn fun? In this game, there are three moments I will never miss(i.e. if the check fails, I'll do the SL immediately)
 
@@ -103,9 +103,9 @@ And the world still has some surprises! Just like the Isulindian Phasmid, a gian
 
 To be honest I think the Insulindian phasmid has some symbolic meaning in the game yet I cannot figure it out. But it just goes like this: You live in a doomed world, everything inevitably turns into dust, goods things fades away. Your past is vague, only remaining extreme pain whenever you found a part of it. Your effort seems to be meaningless however you tried. You cannot twist the wind, although the thunderstorm is at the corner. Yet you are an illusive guy, fond of cryptids and casually set some traps. With all the thing, good and terrible happened, at the end of the very end, you hesitate a second and turned around, then and only then, saw the giant 3 meters phantom phasmid emerging from the forest of reeds, and suddenly realized that it has been there all along. You just didn't notice it. You just weren't concious of its existence. 
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/phasmid.jpeg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/Phasmid.jpeg" alt="1" style="zoom: 50%" ></center></p>
 
-#### Maybe this is the end
+## Maybe this is the end
 
 Yea now I'm a bit of tired. Maybe I have written enough words about it, although there are still so many things rigging in my mind. My language is kind of pale. I believe if you enjoyed this game, you will know what I mean, otherwise you won't get my point however hard I tried. My philosophy is always,  sense the world, not analyzethe world; be a sensitve guy, not a dumb geek. 
 
@@ -115,4 +115,4 @@ Have a good night :)
 
 https://youtu.be/TsU4p4jwnBU
 
-<p><center><img src="http://qiuyoungwang.github.io/images/blog21/return.jpeg" alt="1" style="zoom: 10%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/blog21/return.jpeg" alt="1" style="zoom: 50%" ></center></p>
