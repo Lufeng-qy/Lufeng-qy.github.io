@@ -9,12 +9,12 @@ redirect_from:
 
 I will post something more about me here since it's not just a academic website.
 
-* Hobbies: Writing, Detective things, Harmonica(just a beginner)
+* Hobbies: Painting, Writing, Religions/Legends/Myths, Harmonica(just a beginner)
 * Favorite animal: Dogs, especially Shiba Inu
 * Favorite novel: One hundred years of solitude 
 * Favorite movie: The last emperor, Before sunset, Annie Hall
 * Favortie games: Hollow Knight, Disco Elysium, Detention(返校), Splatoon
-* Favorite drink: Coffee latte with black tea, Black tea with brandy
+* Favorite drink: Coffee latte with black tea, Black tea with brandy, Tequila Sunset
 * Favortie color: Cyan
 * Favorite season: Winter
 * Favorite job: ~~Pokemon trainer~~ 
