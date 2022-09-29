@@ -20,7 +20,7 @@ I will post something more about me here since it's not just a academic website.
 * Favorite job: ~~Pokemon trainer~~ 
 * Favorite charactor:  Yang Wenli ( *Legend of the Galactic Heroes* )(杨威利，按作者意，实为杨文里) (Yes, I like being called as 'Yang' because of him)
 * Favorite author: Xiaobo Wang (王小波 ), Gabriel García Márquez
-* Favorite scientist: Francis Crick
+* Favorite scientist: Francis Crick, Hari Seldon(a fictional one of course, from Asimov's *Foundation*)
 * Favorite food: Shrimps, Mushroom
 * 最讨厌的：中文键政
 
