@@ -1,5 +1,5 @@
 ---
-title: "More biological hippocampus model via cascade synapses"
+title: "More biological hippocampus model via cascade synapses model"
 excerpt: "Hippocampus model with cascade synapse<br/><img src='/images/projects/fusi_2.png' width='400' height='400'>"
 collection: portfolio
 ---
@@ -34,7 +34,7 @@ Then we use an auto-encoder to do a more complicated task. We simulated a mouse 
 
 <p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi/fusi_4.png" alt="Fusi_4" style="zoom: 30%" ></center></p>
 
-Finally we test the model again by the memory retrieval task. The figure belows shows that when the cascade synapse model is implemented, even with a long time, the decoding error is still low (i.e. our hippocampus still has the memory a relatively long time ago), which is consistent with the biological observation.
+Finally we test the model again by the memory retrieval task. The figure belows shows that when the cascade synapse model is implemented, even with a long time, the decoding error is still low, suggesting it has a strong history effect (i.e. our hippocampus still has the memory a relatively long time ago), which is consistent with the biological observation.
 
 <p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi/fusi_3.png" alt="Fusi_3" style="zoom: 55%" ></center></p>
 
