@@ -24,7 +24,7 @@ We first do the memory retrieval task with the input being of a set of binary st
 
 <p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi/fusi_tree_1.png" alt="Fusi_4" style="zoom: 30%" ></center></p>
 
-<p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi/fusi_tree_2.png" alt="Fusi_4" style="zoom: 30%" ></center></p>
+<p><center><img src="http://qiuyoungwang.github.io/images/projects/fusi/fusi_tree_2.png" alt="tmp" style="zoom: 30%" ></center></p>
 
 Then we retreive the memories to test its memory capacity. The x-axis is the number of input memories while the y-axis represents the number of correctly retrieved memories. The turning point represents the the maximum memory capacity. From the result below we could see the implementation of the cascade synapse model can improve the memory capacity in auto- encoder. 
 
