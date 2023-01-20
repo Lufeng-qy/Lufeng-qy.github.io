@@ -14,4 +14,4 @@ collection: portfolio
 
 The phototransduction process in the photoreceptors of the retina of *Drosophila* is complicated for simulation due to the massive number of microvilli, the minimum physiological unit of phototransduction. We developed a series of Reduced Phototransduction Models (RPMs) serving as an I/O equilvalence of the orignial model with much faster compuational speed. The RPMs are based on the dynamics of microvilli, and can be described by either a set of ODEs (Ordinary Differential Equations) or a kinetic PDE (Partial Differential Equation). Retina built with RPMs is also being integrated with other visual neuropils such as lamina and the amacrine cells layer by [Neurokernel](http://neurokernel.github.io). 
 
-[See here](https://qiuyoungwang.github.io/files/projects/RPM.pdf) for a summary of RPMs.
+[See here](https://qiuyoungwang.github.io/files/projects/RPM.pdf) for a detailed summary of RPMs.
