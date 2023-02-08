@@ -1,5 +1,5 @@
 ---
-title: "A coarse-grained method for Integral and Fire network"
+title: "Kinetic PDEs for the population dynamics of Integrate-and-Fire neural network"
 excerpt: "PDEs in IF neural network<br/><img src='/images/projects/Jiwei_1.png' width='400' height='400'>"
 collection: portfolio
 ---
